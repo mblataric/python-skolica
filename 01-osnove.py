@@ -49,3 +49,5 @@ print(prviBroj, "+", drugiBroj, "=", prviBroj + drugiBroj)
 print(prviBroj, "-", drugiBroj, "=", prviBroj - drugiBroj)
 print(prviBroj, "*", drugiBroj, "=", prviBroj * drugiBroj)
 print(prviBroj, "/", drugiBroj, "=", prviBroj / drugiBroj)
+
+# Zadatak 3
