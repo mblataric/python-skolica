@@ -46,6 +46,6 @@ prviBroj = int(input("upiši prvi broj: "))
 drugiBroj = int(input("upiši drugi broj: "))
 
 print(prviBroj, "+", drugiBroj, "=", prviBroj + drugiBroj)
-print(prviBroj, "-", drugiBroj ,"=", prviBroj - drugiBroj)
+print(prviBroj, "-", drugiBroj, "=", prviBroj - drugiBroj)
 print(prviBroj, "*", drugiBroj, "=", prviBroj * drugiBroj)
 print(prviBroj, "/", drugiBroj, "=", prviBroj / drugiBroj)
