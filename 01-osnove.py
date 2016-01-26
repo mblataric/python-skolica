@@ -51,3 +51,13 @@ print(prviBroj, "*", drugiBroj, "=", prviBroj * drugiBroj)
 print(prviBroj, "/", drugiBroj, "=", prviBroj / drugiBroj)
 
 # Zadatak 3
+#  - Upiši godinu rođenja
+#  - Ispiši koliko ćeš imati godina 2039 godine
+#  - Ispiši koja će godina biti kada ćeš imati 79 godina
+
+# Zadatak 4
+#  - Izmjeri duljinu, širinu i visinu svoje sobe
+#  - Složi program koji će te pitati za duljinu, visinu i širinu tvoje sobe
+#  - Izračunaj koliko kvadrata ima tvoja soba. Kvadratura se računa duljina * širina
+#  - Izračunaj koliko kubika ima tvoja soba. Kubik se računa kao kvadratura * visina
+#  - Izmjeri sobu od tate i mame i upiši u program podatke od njihove sobe. Čija soba ima veću kubikažu?
