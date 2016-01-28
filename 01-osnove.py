@@ -42,18 +42,24 @@
 #mama = input("Kako ti se zove mama: ")
 #print("Tvoji roditelji se zovu",tata,"i",mama)
 
-prviBroj = int(input("upiši prvi broj: "))
-drugiBroj = int(input("upiši drugi broj: "))
-
-print(prviBroj, "+", drugiBroj, "=", prviBroj + drugiBroj)
-print(prviBroj, "-", drugiBroj, "=", prviBroj - drugiBroj)
-print(prviBroj, "*", drugiBroj, "=", prviBroj * drugiBroj)
-print(prviBroj, "/", drugiBroj, "=", prviBroj / drugiBroj)
+# prviBroj = int(input("upiši prvi broj: "))
+# drugiBroj = int(input("upiši drugi broj: "))
+#
+# print(prviBroj, "+", drugiBroj, "=", prviBroj + drugiBroj)
+# print(prviBroj, "-", drugiBroj, "=", prviBroj - drugiBroj)
+# print(prviBroj, "*", drugiBroj, "=", prviBroj * drugiBroj)
+# print(prviBroj, "/", drugiBroj, "=", prviBroj / drugiBroj)
 
 # Zadatak 3
 #  - Upiši godinu rođenja
 #  - Ispiši koliko ćeš imati godina 2039 godine
 #  - Ispiši koja će godina biti kada ćeš imati 79 godina
+
+godinaRodjenja = int(input("upiši godinu rođenja: "))
+print("2039.godine imat ćeš",2039 - godinaRodjenja,"godina")
+
+godina79 = godinaRodjenja + 79
+print("Dok ćeš imat 79 bit će", godina79,"godina")
 
 # Zadatak 4
 #  - Izmjeri duljinu, širinu i visinu svoje sobe
@@ -62,4 +68,3 @@ print(prviBroj, "/", drugiBroj, "=", prviBroj / drugiBroj)
 #  - Izračunaj koliko kubika ima tvoja soba. Kubik se računa kao kvadratura * visina
 #  - Izmjeri sobu od tate i mame i upiši u program podatke od njihove sobe. Čija soba ima veću kubikažu?
 
-# Proba
